@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\biblioteca01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4AACE-4803-4593-9454-09416DF9CBF8}|ReportGenerator\\ReportGenerator.csproj|c:\\users\\lucas\\source\\repos\\biblioteca01\\reportgenerator\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A4AACE-4803-4593-9454-09416DF9CBF8}|ReportGenerator\\ReportGenerator.csproj|solutionrelative:reportgenerator\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\biblioteca01\\ReportGenerator\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "ReportGenerator\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\biblioteca01\\ReportGenerator\\ReportGenerator.cs",
+              "RelativeToolTip": "ReportGenerator\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:42:38.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

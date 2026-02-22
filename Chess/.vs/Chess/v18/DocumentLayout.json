@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\xadrez\\peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\xadrez\\peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\xadrez\\bispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\xadrez\\bispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|c:\\users\\lucas\\onedrive\\desktop\\learning_csharp\\chess\\chess\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE8E6E0-E58A-4BD3-8DD0-48DDF8D7B457}|Chess\\Chess.csproj|solutionrelative:chess\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Peao.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Xadrez\\Peao.cs",
+              "RelativeDocumentMoniker": "Chess\\Xadrez\\Peao.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Xadrez\\Peao.cs",
+              "RelativeToolTip": "Chess\\Xadrez\\Peao.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:52:12.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bispo.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Xadrez\\Bispo.cs",
+              "RelativeDocumentMoniker": "Chess\\Xadrez\\Bispo.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Xadrez\\Bispo.cs",
+              "RelativeToolTip": "Chess\\Xadrez\\Bispo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:22:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Tela.cs",
+              "RelativeDocumentMoniker": "Chess\\Tela.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Tela.cs",
+              "RelativeToolTip": "Chess\\Tela.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T01:43:22.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Program.cs",
+              "RelativeDocumentMoniker": "Chess\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Program.cs",
+              "RelativeToolTip": "Chess\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T01:38:44.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartidaDeXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Xadrez\\PartidaDeXadrez.cs",
+              "RelativeDocumentMoniker": "Chess\\Xadrez\\PartidaDeXadrez.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Xadrez\\PartidaDeXadrez.cs",
+              "RelativeToolTip": "Chess\\Xadrez\\PartidaDeXadrez.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwMoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T23:05:09.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "Chess\\tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "Chess\\tabuleiro\\Tabuleiro.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T01:44:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "Chess\\tabuleiro\\Peca.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\tabuleiro\\Peca.cs",
+              "RelativeToolTip": "Chess\\tabuleiro\\Peca.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T01:44:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PosicaoXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Xadrez\\PosicaoXadrez.cs",
+              "RelativeDocumentMoniker": "Chess\\Xadrez\\PosicaoXadrez.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\Xadrez\\PosicaoXadrez.cs",
+              "RelativeToolTip": "Chess\\Xadrez\\PosicaoXadrez.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:29:57.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\tabuleiro\\Cor.cs",
+              "RelativeDocumentMoniker": "Chess\\tabuleiro\\Cor.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\tabuleiro\\Cor.cs",
+              "RelativeToolTip": "Chess\\tabuleiro\\Cor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T01:44:31.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\tabuleiro\\Posicao.cs",
+              "RelativeDocumentMoniker": "Chess\\tabuleiro\\Posicao.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\learning_Csharp\\Chess\\Chess\\tabuleiro\\Posicao.cs",
+              "RelativeToolTip": "Chess\\tabuleiro\\Posicao.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T01:50:22.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
